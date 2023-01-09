@@ -1,5 +1,8 @@
 # GarticPhoneOnPaper
+
 playing gartic phone on paper
+
+![preview image](doc/preview.png)
 
 # create-svelte
 
